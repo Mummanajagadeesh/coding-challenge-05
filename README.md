@@ -1,6 +1,8 @@
 
 # Coding Challenge
 
+Repo: [Mummanajagadeesh/describe-object](https://github.com/Mummanajagadeesh/describe-object)
+
 This repository contains a small C++ command-line program written as part of the
 coding challenge for **“Creating an Execution-Driven Version of Olympia”**
 (RISC-V Mentorship).
